@@ -141,6 +141,7 @@ We welcome both pull requests and issues on
 good places to start.
 
 Want to get paid to work on openpilot? [comma.ai is hiring](http://comma.ai/positions.html)
+You probably want the [other release branch](https://github.com/commaai/openpilot/tree/release2)
 
 Licensing
 ------
